@@ -21,6 +21,7 @@ import I18nLanguageHandler from "@components/I18nLanguageHandler";
 
 import "../styles/fonts.css";
 import "../styles/globals.css";
+import "../styles/lamstyle.css";
 
 function MyApp(props: AppProps) {
   const { Component, pageProps, err, router } = props;

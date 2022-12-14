@@ -243,19 +243,19 @@ const BrandColor = ({
       <style>
         {`body {
       /* green--500*/
-      --booking-highlight-color: ${embedBrandingColors.highlightColor || "#10B981"};
+      --booking-highlight-color: ${embedBrandingColors.highlightColor || "#ffc107"};
       /*  gray--200 */
-      --booking-lightest-color: ${embedBrandingColors.lightestColor || "#E1E1E1"};
+      --booking-lightest-color: ${embedBrandingColors.lightestColor || "#c6c0d1"};
       /* gray--400 */
-      --booking-lighter-color: ${embedBrandingColors.lighterColor || "#ACACAC"};
+      --booking-lighter-color: ${embedBrandingColors.lighterColor || "#5f4f7e"};
       /* gray--500 */
-      --booking-light-color: ${embedBrandingColors.lightColor || "#888888"};
+      --booking-light-color: ${embedBrandingColors.lightColor || "#1a0447"};
       /* gray--600 */
-      --booking-median-color: ${embedBrandingColors.medianColor || "#494949"};
+      --booking-median-color: ${embedBrandingColors.medianColor || "#170440"};
       /* gray--800 */
       --booking-dark-color: ${embedBrandingColors.darkColor || "#313131"};
       /* gray--900 */
-      --booking-darker-color: ${embedBrandingColors.darkerColor || "#292929"};
+      --booking-darker-color: ${embedBrandingColors.darkerColor || "#0d0223"};
       --brand-color: ${lightVal};
       --brand-text-color: ${getContrastingTextColor(lightVal, true)};
       --brand-color-dark-mode: ${darkVal};

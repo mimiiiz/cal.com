@@ -30,7 +30,7 @@ export default function Logo({
           {icon ? (
             <img className="mx-auto w-9" alt="Cal" title="Cal" src={LOGO_ICON} />
           ) : (
-            <img className={small ? "h-4 w-auto" : "h-5 w-auto"} alt="Cal" title="Cal" src={LOGO} />
+            <img className={small ? "h-8 w-auto" : "h-9 w-auto"} alt="Cal" title="Cal" src={LOGO} />
           )}
         </strong>
       )}

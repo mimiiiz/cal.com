@@ -1,0 +1,19 @@
+body {
+    --booking-highlight-color: #f6c247;
+    /*  gray--200 */
+    --booking-lightest-color: #d4c9eb;
+    /* gray--400 */
+    --booking-lighter-color: #8766c6;
+    /* gray--500 */
+    --booking-light-color: #5425ad;
+    /* gray--600 */
+    --booking-median-color: #4c219c;
+    /* gray--800 */
+    --booking-dark-color: #321668;
+    /* gray--900 */
+    --booking-darker-color: #291255;
+    --brand-color: #1a0a47;
+    --brand-text-color: #fafafa;
+    --brand-color-dark-mode: #ffffff;
+    --brand-text-color-dark-mode: #6f42c1;
+}
